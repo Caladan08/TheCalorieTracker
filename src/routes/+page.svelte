@@ -105,7 +105,7 @@
     </Form>
   </Tile>
   <Tile class="mx-8 mt-4">
-    <h2>Previous Meals:</h2>
+    <h2 class="mx-4 mb-4">Previous Meals:</h2>
     {#if mealsData}
       {#each mealsData as meal}
         <MealCard
