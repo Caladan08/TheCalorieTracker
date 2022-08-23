@@ -118,7 +118,7 @@
       <br class="my-2" />
       <SkeletonText />
     {:else}
-      <h4>There aren't any meals registered!</h4>
+      <h4 class="mx-4 mb-4">There aren't any meals registered!</h4>
     {/if}
   </Tile>
   <Tile class="mx-8 mt-4">
